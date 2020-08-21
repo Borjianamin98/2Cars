@@ -70,4 +70,7 @@ crashlytics-build.properties
 InitTestScene*.unity.meta
 InitTestScene*.unity
 
+# Exclude build files
+!Build/*
+
 # End of https://www.toptal.com/developers/gitignore/api/unity
